@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.image {
+  width: 300px;
+  height: 300px;
+}
+.planet-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #f8fafc;
+}
+.description {
+  color: #f1f5f9;
+}
